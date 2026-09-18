@@ -1,0 +1,12 @@
+Dataset: RoadAnomaly21   | Method: MSP        | AUPRC: 29.09% | FPR95: 62.62%
+Dataset: RoadAnomaly21   | Method: MaxLogit   | AUPRC: 38.29% | FPR95: 59.42%
+Dataset: RoadAnomaly21   | Method: Entropy    | AUPRC: 30.95% | FPR95: 62.74%
+Dataset: RoadObstacle21  | Method: MSP        | AUPRC: 2.71% | FPR95: 65.27%
+Dataset: RoadObstacle21  | Method: MaxLogit   | AUPRC: 4.63% | FPR95: 48.47%
+Dataset: RoadObstacle21  | Method: Entropy    | AUPRC: 3.04% | FPR95: 65.94%
+Dataset: FS_Lost&Found   | Method: MSP        | AUPRC: 1.75% | FPR95: 50.61%
+Dataset: FS_Lost&Found   | Method: MaxLogit   | AUPRC: 3.30% | FPR95: 45.51%
+Dataset: FS_Lost&Found   | Method: Entropy    | AUPRC: 2.58% | FPR95: 50.19%
+Dataset: FS_Static       | Method: MSP        | AUPRC: 7.43% | FPR95: 41.84%
+Dataset: FS_Static       | Method: MaxLogit   | AUPRC: 9.44% | FPR95: 40.31%
+Dataset: FS_Static       | Method: Entropy    | AUPRC: 8.78% | FPR95: 41.58%
